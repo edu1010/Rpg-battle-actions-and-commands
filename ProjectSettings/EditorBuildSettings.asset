@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/MainMenu.unity
+    guid: 6e57867e7b909f542931c648d72ed2ae
+  - enabled: 1
+    path: Assets/Scenes/Entrega/IAvsIA.unity
+    guid: 38cd821b40ec1f042b79edfc74690bdc
+  - enabled: 1
+    path: Assets/Scenes/Entrega/PlayerVsIa.unity
+    guid: c208dbc957f048245bebb1d757e95570
+  - enabled: 1
+    path: Assets/Scenes/Entrega/PlayervsPlayer.unity
+    guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 1
+    path: Assets/Scenes/Loading.unity
+    guid: f9920be45060f824fa46e6f9745f91ea
+  - enabled: 1
+    path: Assets/Scenes/GameOverLeftTeam.unity
+    guid: 57010e307617dfa4daaa7c7ef94579ed
+  - enabled: 1
+    path: Assets/Scenes/GameOverRightTeam.unity
+    guid: ca643b00266bd8d45b58472087872a64
+  m_configObjects: {}
